@@ -1,0 +1,49 @@
+body {
+    display: block;
+    border: 2px solid black;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+#textInput {
+    margin-left: 5px;
+    margin-top: 5px;
+    border: 2px solid black;
+    background-color: gainsboro;
+}
+
+#submitButton {
+    margin-top: 5px;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    font-weight: 600;
+}
+
+#weatherIcon {
+    margin-top: 10px;
+
+    zoom: 1.5;
+}
+
+.prefixText {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#cityName {
+    margin: 0;
+}
+
+
+
+#temp {
+    margin: 10px;
+}
+
+#conditions {
+    margin:10px;
+}
